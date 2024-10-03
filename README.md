@@ -27,7 +27,7 @@ See you soon for discover it :))
 
 <h3>    MY SOCIAL MEDIA :</h3>
 <div>
-<a href=https://www.linkedin.com/in/raphaël-serre-gamard-434853292/><img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+<a href=https://www.linkedin.com/in/raphaël-serre-gamard-434853292/ target="_blank"><img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 
 
 </div>
