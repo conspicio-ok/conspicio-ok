@@ -1,6 +1,6 @@
 <h3>    WHO I AM ?</h3>
 <p>
-Hi everyone, i'm Raphaël aka "ok", a programer :)
+Hi everyone, i'm Raphaël, a programer :)
 Actually i search a job, i'm student in ESGI school.
 </p>
 
