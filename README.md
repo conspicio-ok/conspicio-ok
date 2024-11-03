@@ -8,7 +8,7 @@ Actually i search a job, i'm student in ESGI school.
 
 <h3>    MY CURRENT PROJECT :</h3>
 <p>
-I work on OO, OrcaOS, it's an os, based on archlinux.
+I'm working on OO, OrcaOS, it's an os, based on archlinux.
 The goal is to have a simple rice distribution easy to use for beginners and professional users.
 See you soon to discover it :))
 </p>
