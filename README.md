@@ -6,7 +6,7 @@ Actually i search a job, i'm student in ESGI school.
 
 ---
 
-<h3>    MY CURRENTLY PROJECT :</h3>
+<h3>    MY CURRENT PROJECT :</h3>
 <p>
 I work on OO, OrcaOS, it's an os, based on archlinux.
 The goal is to have a simple rice distribution easy to use for beginners and professional users.
@@ -15,7 +15,7 @@ See you soon to discover it :))
 
 ---
 
-<h3>    MY LANGUAGE :</h3>
+<h3>    MY LANGUAGES :</h3>
 <div style="display: flex;">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
