@@ -1,7 +1,7 @@
 **`Developer Software`**
 
 Hi everyone, i'm an indepedent programer, i like working on a lot of different projects :)
-I code everything myself : if i use something i wrote it 
+I code everything myself : if i'm using something i wrote it 
 <div style="display: flex;">
 <a href="https://github.com/conspicio-ok?tab=followers">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/conspicio-ok?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
