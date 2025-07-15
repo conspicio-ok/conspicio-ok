@@ -62,9 +62,9 @@ Based in France, and low-level's lover, I like working on open-source projects :
 
 ## 📊 GitHub's Stats
 
-![GitHub's Stats](https://github-readme-stats.vercel.app/api?username=conspicio-ok&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conspicio-ok&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=conspicio-ok&theme=radical)
+![GitHub's Stats](https://github-readme-stats.vercel.app/api?username=conspicio-ok&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conspicio-ok&layout=compact&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=conspicio-ok&theme=transparent)
 <!--
 ## 🏆 Projets Phares
 
