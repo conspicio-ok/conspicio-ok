@@ -14,6 +14,8 @@ Based in France, and low-level's lover, I like working on open-source projects :
 ##    🔭 My Main Project :
 - 💻 [OR](https://github.com/conspicio-ok/orca-rice) : **OrcaRice**, a rice based on arch, with hyprland. *In process 🚧*
 - 📝 [MEMOZ](https://memoz.fr) : **Memoz** is a website, developped like my annual project, the goal is to create a place with lesson for help other *Deployed 🔥*
+- 🤖 My personnal [**AI**](https://github.com/conspicio-ok/IA), not an LLM. I develop my own artificial neurons (deep learning). *In process 🚧*
+- 🖥️ [Mydia](https://github.com/conspicio-ok/mydia) : **Mydia** is a web app for streaming, cloud storage, life organization... The goal: a standalone service you can run on any computer (server), to be fully autonomous and independent. *In process 🚧*
 - 📋 Prevision : Coming Soon, i want to learn **Assembly**, **React** and **C++** for personnal project. Follow me for discover it ;) *Not Started 🔒*
 
 ## 🛠️ Technologies & Outils
@@ -46,3 +48,4 @@ Based in France, and low-level's lover, I like working on open-source projects :
 ![GitHub's Stats](https://github-readme-stats.vercel.app/api?username=conspicio-ok&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conspicio-ok&layout=compact&theme=transparent)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=conspicio-ok&theme=transparent)
+
