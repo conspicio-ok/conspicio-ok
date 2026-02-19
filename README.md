@@ -1,9 +1,8 @@
-#     👋 Hi everyone !
+# Hi everyone !
 
-##     🚀 About Me
+## About Me
 
-**`Developer Software`**
-Mentality : Want It, Code It
+A **`Developer Software`** with Unix Mentality
 
 Based in France, and low-level's lover, I like working on open-source projects :)
 
@@ -12,11 +11,10 @@ Based in France, and low-level's lover, I like working on open-source projects :
 
 
 ##    🔭 My Main Project :
-- 💻 [OR](https://github.com/conspicio-ok/orca-rice) : **OrcaRice**, a rice based on arch, with hyprland. *In process 🚧*
-- 📝 [MEMOZ](https://memoz.fr) : **Memoz** is a website, developped like my annual project, the goal is to create a place with lesson for help other *Deployed 🔥*
-- 🤖 My personnal [**AI**](https://github.com/conspicio-ok/IA), not an LLM. I develop my own artificial neurons (deep learning). *In process 🚧*
+- 💻 [OR](https://github.com/conspicio-ok/orca-rice) : **OrcaRice**, a rice based on arch, with hyprland. *Paused 🚧*
+- 📝 [MEMOZ](https://memoz.fr) : **Memoz** is a website, developped like my annual project, the goal is to create a place with lesson for help other *Stopped*
+- 🤖 My personnal [**AI**](https://github.com/conspicio-ok/IA), not an LLM. I develop my own artificial neurons (deep learning). *Paused 🚧*
 - 🖥️ [Mydia](https://github.com/conspicio-ok/mydia) : **Mydia** is a web app for streaming, cloud storage, life organization... The goal: a standalone service you can run on any computer (server), to be fully autonomous and independent. *In process 🚧*
-- 📋 Prevision : Coming Soon, i want to learn **Assembly**, **React** and **C++** for personnal project. Follow me for discover it ;) *Not Started 🔒*
 
 ## 🛠️ Technologies & Outils
 
@@ -39,13 +37,12 @@ Based in France, and low-level's lover, I like working on open-source projects :
 ### Distribution
 ![Arch](https://img.shields.io/badge/-Archlinux-333333?style=for-the-badge&logo=archlinux&logoColor=1793d1)
 ![Debian](https://img.shields.io/badge/-Debian-EEEEEE?style=for-the-badge&logo=debian&logoColor=D70A53)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)
 
 ### Social Media
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/conspicio)
 
 ## 📊 GitHub's Stats
-![GitHub's Stats](https://github-readme-stats.vercel.app/api?username=conspicio-ok&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=conspicio-ok&layout=compact&theme=transparent)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/conspicio-ok?cardType=level-alternate&theme=onedark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=conspicio-ok&theme=transparent)
+
 
