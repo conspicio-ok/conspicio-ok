@@ -12,11 +12,11 @@ Based in France, and low-level's lover, I like working on open-source projects :
 
 ## 🔭 My Main Projects
 
-- 💼 [Portfolio](conspicio.fr) : Personal portfolio — SvelteKit + Go + MariaDB. *In progress 🚧*
-- 🎓 [Upcycling] : Annual school project — React + Go + MySQL — host on gitlab, not deploy yet. *In progress 🚧*
-- 🤖 [IA](https://github.com/conspicio-ok/IA) : Building artificial neurons from scratch (no framework, pure NumPy). *Paused 🚧*
-- 🖥️ [Mydia](https://github.com/conspicio-ok/mydia) : Self-hosted media server and life-organization platform. *Paused — migrating to Unraid, Docker setup needs a full rethink 🚧*
-- 💻 [OrcaRice](https://github.com/conspicio-ok/orca-rice) : Personal Arch Linux rice. *In transition — moving to Ansible provisioning + SwayFX 🚧*
+- 💼 [Portfolio](conspicio.fr) : Personal portfolio — SvelteKit + Go + MariaDB. *In progress*
+- 🎓 [Upcycling] : Annual school project — React + Go + MySQL — host on gitlab, not deploy yet. *In progress*
+- 🤖 [IA](https://github.com/conspicio-ok/IA) : Building artificial neurons from scratch (no framework, pure NumPy). *Paused*
+- 🖥️ [Mydia](https://github.com/conspicio-ok/mydia) : Self-hosted media server and life-organization platform. *Paused — migrating to Unraid, Docker setup needs a full rethink*
+- 💻 [OrcaRice](https://github.com/conspicio-ok/orca-rice) : Personal Arch Linux rice. *In transition — moving to Ansible provisioning + SwayFX*
 
 ## 🛠️ Technologies & Tools
 
